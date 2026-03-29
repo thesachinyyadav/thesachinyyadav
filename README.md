@@ -1,27 +1,27 @@
 # Sachin Yadav
 
-Final Year BCA Student at Christ University  
+BCA at Christ University  
 Founder @ SOCIO  
 
 ---
 
 ## Work
 
-**AUTH**  
-Admissions workflow system handling 1000+ candidates per day  
-https://universityauth.vercel.app  
+**SOCIO**  
+Event tech platform with live deployments and client work  
+https://live.withsocio.com  
+https://socio.christuniversity.in  
 
 **UniversityGated**  
 QR based campus entry system used in large scale events  
-https://universitygated.vercel.app  
-
-**SOCIO**  
-Event tech platform, ₹1.25L revenue in first month  
-https://sociov2.vercel.app  
+https://gated.withsocio.com  
 
 **Nyaya Mitra**  
 AI legal assistant, research project (Top 3 Research Day)  
 https://studio.pickaxe.co/STUDIO2OYY1JALUDK2UF3/Nyaya_Mitra_TKKN0  
+
+**AUTH**  
+Admissions workflow system handling high volume candidates  
 
 ---
 
@@ -36,8 +36,9 @@ AWS, GCP
 
 ## Focus
 
-Building systems that handle real users  
-SaaS and backend engineering  
+System Design  
+Cloud Engineering  
+Backend Systems  
 AI in practical workflows  
 
 ---
