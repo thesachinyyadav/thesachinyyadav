@@ -22,7 +22,8 @@
 | **SOCIO** | Event tech platform with live deployments and client work | https://live.withsocio.com<br>https://socio.christuniversity.in |
 | **UniversityGated** | QR based campus entry system used in large scale events | https://gated.withsocio.com |
 | **Nyaya Mitra** | AI legal assistant, research project (Top 3 Research Day) | https://studio.pickaxe.co/STUDIO2OYY1JALUDK2UF3/Nyaya_Mitra_TKKN0 |
-| **AUTH** | Admissions workflow system handling high volume candidates |  |
+| **A Conceptual Framework for an AI Powered Triage System in Indian Lower Courts** | Research paper based on legal and AI | https://drive.google.com/file/d/1iQ2xwPPXBTdpvNEtEUOuN6wEFlRgQsNL |
+| **AUTH** | Admissions workflow system handling high volume candidates | https://universityauth.vercel.app |
 
 </details>
 
