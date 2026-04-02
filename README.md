@@ -1,15 +1,21 @@
-<div align="center">
+<h1 align="center">SACHIN YADAV</h1>
 
-# SACHIN YADAV
+<p align="center">
+	<strong>BCA at Christ University</strong>
+	<br>
+	<strong>Founder @ SOCIO</strong>
+</p>
 
-<p><strong>BCA at Christ University</strong></p>
-<p><strong>Founder @ SOCIO</strong></p>
+<p align="center">
+	<img
+		src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2500&pause=1200&color=7A7A7A&center=true&vCenter=true&width=560&lines=System+Design;Cloud+Engineering;Backend+Systems;AI+in+practical+workflows"
+		alt="Focus areas"
+	/>
+</p>
 
-<p><code>------------------------------------------------------------</code></p>
-
-</div>
-
-## WORK
+<details open>
+	<summary><strong>WORK</strong></summary>
+	<br>
 
 | Project | Description | Links |
 |---|---|---|
@@ -18,9 +24,11 @@
 | **Nyaya Mitra** | AI legal assistant, research project (Top 3 Research Day) | https://studio.pickaxe.co/STUDIO2OYY1JALUDK2UF3/Nyaya_Mitra_TKKN0 |
 | **AUTH** | Admissions workflow system handling high volume candidates |  |
 
----
+</details>
 
-## TECH
+<details>
+	<summary><strong>TECH</strong></summary>
+	<br>
 
 ```text
 Java, Python, C++, JavaScript
@@ -29,9 +37,11 @@ MySQL, Supabase
 AWS, GCP
 ```
 
----
+</details>
 
-## FOCUS
+<details>
+	<summary><strong>FOCUS</strong></summary>
+	<br>
 
 ```text
 System Design
@@ -40,10 +50,14 @@ Backend Systems
 AI in practical workflows
 ```
 
----
+</details>
 
-## CONTACT
+<details>
+	<summary><strong>CONTACT</strong></summary>
+	<br>
 
 ```text
 sachin.yadav@bcah.christuniversity.in
 ```
+
+</details>
