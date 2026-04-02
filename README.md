@@ -1,48 +1,49 @@
-# Sachin Yadav
+<div align="center">
 
-BCA at Christ University  
-Founder @ SOCIO  
+# SACHIN YADAV
 
----
+<p><strong>BCA at Christ University</strong></p>
+<p><strong>Founder @ SOCIO</strong></p>
 
-## Work
+<p><code>------------------------------------------------------------</code></p>
 
-**SOCIO**  
-Event tech platform with live deployments and client work  
-https://live.withsocio.com  
-https://socio.christuniversity.in  
+</div>
 
-**UniversityGated**  
-QR based campus entry system used in large scale events  
-https://gated.withsocio.com  
+## WORK
 
-**Nyaya Mitra**  
-AI legal assistant, research project (Top 3 Research Day)  
-https://studio.pickaxe.co/STUDIO2OYY1JALUDK2UF3/Nyaya_Mitra_TKKN0  
-
-**AUTH**  
-Admissions workflow system handling high volume candidates  
+| Project | Description | Links |
+|---|---|---|
+| **SOCIO** | Event tech platform with live deployments and client work | https://live.withsocio.com<br>https://socio.christuniversity.in |
+| **UniversityGated** | QR based campus entry system used in large scale events | https://gated.withsocio.com |
+| **Nyaya Mitra** | AI legal assistant, research project (Top 3 Research Day) | https://studio.pickaxe.co/STUDIO2OYY1JALUDK2UF3/Nyaya_Mitra_TKKN0 |
+| **AUTH** | Admissions workflow system handling high volume candidates |  |
 
 ---
 
-## Tech
+## TECH
 
-Java, Python, C++, JavaScript  
-React, Angular, Node.js  
-MySQL, Supabase  
-AWS, GCP  
-
----
-
-## Focus
-
-System Design  
-Cloud Engineering  
-Backend Systems  
-AI in practical workflows  
+```text
+Java, Python, C++, JavaScript
+React, Angular, Node.js
+MySQL, Supabase
+AWS, GCP
+```
 
 ---
 
-## Contact
+## FOCUS
 
+```text
+System Design
+Cloud Engineering
+Backend Systems
+AI in practical workflows
+```
+
+---
+
+## CONTACT
+
+```text
 sachin.yadav@bcah.christuniversity.in
+```
