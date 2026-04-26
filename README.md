@@ -1,7 +1,7 @@
 <h1 align="center">SACHIN YADAV</h1>
 
 <p align="center">
-	<strong>BCA at Christ University</strong>
+	<strong>BCA at Christ University Bangalore</strong>
 	<br>
 	<strong>Founder @ SOCIO</strong>
 </p>
